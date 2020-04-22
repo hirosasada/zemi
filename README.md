@@ -1,4 +1,4 @@
-[home](https://hirosasada.github.io/) > Sasada Zemi  
+[home](https://hirosasada.github.io/) > Sasada zemi  
 ## <font color="BROWN">Hokkaido University MJSP Sasada Zemi Website</font>
 - **For Currently registered students only.**  
 - **You can download past student papers below. The files are password-protected.**  
