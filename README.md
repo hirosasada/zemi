@@ -9,14 +9,14 @@
 -**Project Study III (4th year students):**  
 
 ## Student Papers  
-PS II  
-1. Hongisto (2019)     
-2. Sharma (2019)   
-3. Ursine (2019)  
-PS I  
-1. Tran (2019)  
-2. Hongisto (2018)     
-3. Sharma (2018)  
+### PS II  
+Hongisto (2019)     
+Sharma (2019)   
+Ursine (2019)  
+### PS I  
+Tran (2019)  
+Hongisto (2018)     
+Sharma (2018)  
 
 ## Links   
 1. [APA Citation Style](https://www.citationmachine.net/apa/cite-a-book)  
