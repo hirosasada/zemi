@@ -12,8 +12,8 @@
 ### PS II  
 1. Hongisto (2019)     
 2. Sharma (2019)   
-3. Ursine (2019)      
-### PS I:  
+3. Ursine (2019)  
+### PS I  
 1. Tran (2019)  
 2. Hongisto (2018)     
 3. Sharma (2018)  
