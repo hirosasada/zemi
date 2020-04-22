@@ -4,8 +4,11 @@
 - **You can download course materials below.**  
 - **The files are password-protected.**  
 
-## Dues and Wordlimits 2020  
-  
+## Dues and word limits 2020  
+-**Project Study I   (2nd year students):**  
+-**Project Study II  (3rd year students):**  
+-**Project Study III (4th year students):**  
+
 ## Student Papers  
 1.  
 2.  
