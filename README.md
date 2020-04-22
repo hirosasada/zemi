@@ -10,13 +10,13 @@
 
 ## Student Papers  
 ### PS II  
-- Hongisto (2019)     
-- Sharma (2019)   
-- Ursine (2019)  
+Hongisto (2019)     
+Sharma (2019)   
+Ursine (2019)  
 ### PS I  
-- Tran (2019)  
-- Hongisto (2018)     
-- Sharma (2018)  
+Tran (2019)  
+Hongisto (2018)     
+Sharma (2018)  
 
 ## Links   
 1. [APA Citation Style](https://www.citationmachine.net/apa/cite-a-book)  
