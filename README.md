@@ -4,9 +4,10 @@
 - **You can download past student papers below. The files are password-protected.**  
 
 ## Dues and word limits 2020  
-- **Project Study I   (2nd year students):**  
-- **Project Study II  (3rd year students):**  
-- **Project Study III (4th year students):**  
+- **Project Study I   (2nd year students):<font color="RED">5pm on Monday 14 December 2020</font>**  
+-- 2,500-3,000 words in English or 3,750-4,500 characters in Japanese inclusive of all notes but excluding the bibliography.
+- **Project Study II  (3rd year students):<font color="RED">5pm on Monday 14 December 2020</font>**  
+- **Project Study III (4th year students):<font color="RED">5pm on Monday 14 December 2020</font>**  
 
 ## Student Papers  
 ### PS II  
