@@ -10,11 +10,11 @@
 
 ## Student Papers  
 ### PS II  
-Hongisto (2019)     
-Sharma (2019)   
-Ursine (2019)  
+[Hongisto (2019)](https://drive.google.com/open?id=1Oi_XKPILQX1_RnChU3e2Mzz1igNjNg6J)     
+[Sharma (2019)](https://drive.google.com/open?id=1lbecq7kqVyv3qxdXi7ekeqMHd3ToPW7V)
+[Ursine (2019)](https://drive.google.com/open?id=1sJwIX0JBB8jWjEyC0M3zxhthvcbb9FOM)  
 ### PS I  
-Tran (2019)  
+[Tran (2019)](https://drive.google.com/open?id=1Ke9wG7MA8LXud2AAlEtEMFKfGAicrtiL)  
 Hongisto (2018)     
 Sharma (2018)  
 
