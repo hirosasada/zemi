@@ -1,10 +1,11 @@
 [home](https://hirosasada.github.io/) > Sasada zemi  
 ## <font color="BROWN">Hokkaido University MJSP Sasada Zemi</font>
-- **This website is for currently registered students only.**  
-- **You can download past student papers below. The files are password-protected.**  
+- This website is for currently registered students only.  
+- You can download past student papers below. The files are password-protected.  
 
 ## Dues and word limits 2020
-- **[ESSAY DUE DATE] <font color="RED">5pm on Monday 14 December 2020</font>** 
+- **[ESSAY DUE DATE]  
+-- <font color="RED">5pm on Monday 14 December 2020</font>** 
 - **[WORD LIMITS]**  
 --**Project Study I**  
 --- 2,500-3,000 words in English or 3,750-4,500 characters in Japanese inclusive of all notes but excluding the bibliography.
