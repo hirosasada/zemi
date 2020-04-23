@@ -4,9 +4,9 @@
 - **You can download past student papers below. The files are password-protected.**  
 
 ## Dues and word limits 2020
-- **[Essay due date for all students] <font color="RED">5pm on Monday 14 December 2020</font>** 
-- **[Word limits]**  
---**Project Study I** 
+- **[ESSAY DUE DATE] <font color="RED">5pm on Monday 14 December 2020</font>** 
+- **[WORD LIMITS]**  
+--**Project Study I**  
 --- 2,500-3,000 words in English or 3,750-4,500 characters in Japanese inclusive of all notes but excluding the bibliography.
 - **Project Study II**  
 --- 3,500-4,000 words in English or 4,750-5,500 characters in Japanese inclusive of all notes but excluding the bibliography.
