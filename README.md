@@ -5,7 +5,8 @@
 
 ## Dues and word limits 2020
 **<font color="BLUE">ESSAY DUE DATE</font>**  
--- <font color="RED">5pm on Monday 14 December 2020</font>**  
+-- **<font color="RED">5pm on Monday 14 December 2020</font>**  
+  
 **<font color="BLUE">WORD LIMITS</font>**    
 - **Project Study I**  
 --- 2,500-3,000 words in English or 3,750-4,500 characters in Japanese inclusive of all notes but excluding the bibliography.
