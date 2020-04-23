@@ -22,8 +22,8 @@
 [Ursine (2019)](https://drive.google.com/open?id=1sJwIX0JBB8jWjEyC0M3zxhthvcbb9FOM)  
 ### PS I  
 [Tran (2019)](https://drive.google.com/open?id=1Ke9wG7MA8LXud2AAlEtEMFKfGAicrtiL)  
-Hongisto (2018)     
-Sharma (2018)  
+[Hongisto (2018)](https://drive.google.com/open?id=1c5IvCw_VlRcLYj7oc0o9vwHhJkxhcsqb)     
+[Sharma (2018)](https://drive.google.com/open?id=1IEmKjw_UK0uRPE9kdP47qB3NZdtj9doL)  
 
 ## Links   
 1. [APA Citation Style](https://www.citationmachine.net/apa/cite-a-book)  
